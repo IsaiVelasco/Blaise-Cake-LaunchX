@@ -1,5 +1,7 @@
 # Blaise-Cake-LaunchX
-Maquetación HTML para tienda web de pasteles.
+### Maquetación HTML para tienda web de pasteles.
+Con: HTML, Bootstrap, JS.
+Uso de SGV.
 
 Link de la implementacion: 
 [Blaise Pastel](https://blaisepastel.000webhostapp.com/)
